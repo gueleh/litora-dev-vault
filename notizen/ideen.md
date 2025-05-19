@@ -1,3 +1,12 @@
+---
+type: notizen
+title: "Ideen"
+id: "notizen-e1b2e3f4"
+created: "2025-05-18T08:00:00Z"
+updated: "2025-05-18T08:00:00Z"
+refersTo:
+---
+
 # Ideen
 
 ## Plotentwicklung
